@@ -1,0 +1,6 @@
+{
+  "arrayOfArrays": [
+    ["foo", "bar", "extra"],
+    ["blue", "red", "yellow"]
+  ]
+}
